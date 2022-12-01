@@ -2,4 +2,4 @@
 
 **Дякую!**
 
-Вчіть у wiki
+* **[MENU](https://github.com/ViktorWEBS/JavaScript/wiki/_Sidebar-Menu/)**
